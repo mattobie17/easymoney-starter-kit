@@ -1,0 +1,2 @@
+{ "cleanUrls": true,
+  "headers": [{ "source": "/d/(.*)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex, nofollow" }] }] }
